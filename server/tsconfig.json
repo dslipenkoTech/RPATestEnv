@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "module": "ESNext",
+    "target": "ES2022",
+    "types": ["cypress", "node"],
+    "moduleResolution": "node",
+    "outDir": "./dist",
+    "esModuleInterop": true,
+    "strict": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "baseUrl": "./",
+    "resolveJsonModule": true,
+    "skipLibCheck": true,
+    "paths": {
+      "~cypress/*": ["cypress/*"]
+    }
+  },
+  "include": ["**/*.ts", "cypress/e2e/test/successfullTest.test.cyts"],
+  "exclude": ["node_modules", "dist", "lib"]
+}

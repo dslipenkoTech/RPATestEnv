@@ -1,0 +1,293 @@
+{
+  "pageTypeList": [
+    {
+      "pageType": "MoodyBibleHomePage",
+      "environment": "MBI",
+      "blocks": [
+        "MbiHeroBannerBlock",
+        "MinistrySelectorBlock",
+        "FeaturedStoriesBlock",
+        "MinistryResourcesBlock",
+        "RecentNewsBlock",
+        "FeaturedResourcesBlock",
+        "FeaturedNewsBlock",
+        "FeaturedResourcesSliderBlock",
+        "NewsIndexPageBlock",
+        "FeaturedMediaBlock"
+      ]
+    },
+    {
+      "pageType": "LandingPage",
+      "environment": "MBI",
+      "blocks": [
+        "HeroBlock",
+        "TriFeatureHeroBlock",
+        "FullWidthCalloutBlock",
+        "FormContainerBlock",
+        "CtaWithInputBlock",
+        "LargeSliderBlock",
+        "LayoutBlock",
+        "FeaturedMediaBlock",
+        "ImageBlock",
+        "FeaturedResourcesBlock",
+        "LinkCardGridBlock"
+      ]
+    },
+    {
+      "pageType": "GeneralDetailPage",
+      "environment": "MBI",
+      "blocks": ["GeneralDetailPage", "ImageBlock", "LinkCardGridBlock", "TableBlock", "RichTextBlock", "FormContainerBlock", "LayoutBlock"]
+    },
+    {
+      "pageType": "StoryIndexMainPage",
+      "environment": "MBI",
+      "testException": "testFullPage",
+      "blocks": ["StoryIndexMainPageBlock"]
+    },
+    {
+      "pageType": "TitwHomePage",
+      "environment": "TITW",
+      "blocks": [
+        "TitwTabHeroSliderBlock",
+        "FeaturedResourcesBlock",
+        "TitwHomeHeroBlock",
+        "TitwPromoBannerBlock",
+        "TitwStudyContentBlock",
+        "TitwFeaturedContentBlock",
+        "CtaBlock",
+        "LinkCardGridBlock",
+        "LayoutBlock",
+        "TableBlock",
+        "CtaWithInputBlock",
+        "UpcomingFeaturedContentBlock",
+        "SiteAlertBlock",
+        "FeaturedMediaBlock"
+      ]
+    },
+    {
+      "pageType": "TitwDevotionalCollectionIndexPage",
+      "environment": "TITW",
+      "testException": "testFullPage",
+      "blocks": ["TitwDevotionalCollectionIndexPageBlock"]
+    },
+    {
+      "pageType": "TitwArticleIndexPage",
+      "environment": "TITW",
+      "testException": "testFullPage",
+      "blocks": ["TitwArticleIndexPageBlock"]
+    },
+    {
+      "pageType": "TitwQAIndexPage",
+      "environment": "TITW",
+      "testException": "testFullPage",
+      "blocks": ["TitwQAIndexPageBlock"]
+    },
+    {
+      "pageType": "TitwBibleVerseIndexPage",
+      "environment": "TITW",
+      "testException": "testFullPage",
+      "blocks": ["TitwBibleVerseIndexPageBlock"]
+    },
+    {
+      "pageType": "DiscussionStarterIndexPage",
+      "environment": "TITW",
+      "testException": "testFullPage",
+      "blocks": ["DiscussionStarterIndexPageBlock"]
+    },
+    {
+      "pageType": "TitwDevotionalMonthlyStudyPage",
+      "environment": "TITW",
+      "testException": "testFullPage",
+      "blocks": ["TitwDevotionalMonthlyStudyPageBlock"]
+    },
+    {
+      "pageType": "TitwSearchPage",
+      "environment": "TITW",
+      "testException": "testFullPage",
+      "blocks": ["TitwSearchPageBlock"]
+    },
+    {
+      "pageType": "TitwArticleDetailPage",
+      "environment": "TITW",
+      "testException": "testFullPage",
+      "blocks": ["TitwArticleDetailPageBlock"]
+    },
+    {
+      "pageType": "TitwLandingPage",
+      "environment": "TITW",
+      "blocks": [
+        "TitwLandingPageBlock",
+        "TitwLandingPageHeroBlock",
+        "TitwTabHeroSliderBlock",
+        "LinkCardGridBlock",
+        "LinkCardGridBlock",
+        "FeaturedResourcesBlock",
+        "LayoutBlock",
+        "LandingPageHeroBlock",
+        "TriFeatureHeroBlock",
+        "FullWidthCalloutBlock",
+        "FeaturedResourcesSliderBlock",
+        "FeaturedResourceBlock",
+        "FeaturedContentBlock",
+        "FeaturedMediaBlock",
+        "LargeSliderBlock",
+        "LargeCalloutBlock",
+        "CtaWithInputBlock",
+        "TableBlock",
+        "ImageBlock",
+        "SimpleLinkCardBlock",
+        "RichTextBlock",
+        "TitwFeaturedContentBlock",
+        "TitwSmallCalloutGridBlock",
+        "FormContainerBlock"
+      ]
+    },
+    {
+      "pageType": "TitwGeneralDetailPage",
+      "environment": "TITW",
+      "blocks": ["TitwGeneralDetailPageBlock", "RichTextBlock", "ImageBlock", "FormContainerBlock", "LinkCardGridBlock", "LayoutBlock"]
+    },
+    {
+      "pageType": "NewsIndexPage",
+      "environment": "MBI",
+      "testException": "testFullPage",
+      "blocks": ["NewsIndexPageBlock"]
+    },
+    {
+      "pageType": "NewsDetailPage",
+      "environment": "MBI",
+      "testException": "testFullPage",
+      "blocks": ["NewsDetailPageBlock"]
+    },
+    {
+      "pageType": "MoodyBibleSearchPage",
+      "environment": "MBI",
+      "testException": "testFullPage",
+      "blocks": ["MoodyBibleSearchPageBlock"]
+    },
+    {
+      "pageType": "EduHomePage",
+      "environment": "EDU",
+      "blocks": [
+        "EduHomeHeroBlock",
+        "LayoutBlock",
+        "EduIntroStatementBlock",
+        "EduProgramFinderBlock",
+        "EduAcademicsBlock",
+        "EduStoriesFeatureBlock",
+        "FullWidthCalloutBlock",
+        "EduStudentLifeFeatureBlock",
+        "FeaturedMediaBlock",
+        "FeaturedMediaBlock",
+        "EduSimpleCalloutBlock",
+        "FeaturedMediaBlock",
+        "FeaturedResourcesBlock",
+        "LargeSliderBlock"
+      ]
+    },
+    {
+      "pageType": "EduLandingPage",
+      "environment": "EDU",
+      "blocks": [
+        "EduLandingHeroBlock",
+        "ImageGalleryBlock",
+        "LayoutBlock",
+        "AccordionBlock",
+        "FeaturedMediaBlock",
+        "EduStatisticsBlock",
+        "LinkCardGridBlock",
+        "EduContactInformationBlock",
+        "EduSimpleCalloutBlock",
+        "EduLayoutBlock",
+        "EduContactBlock",
+        "EduFeaturedLinkBlock",
+        "EduHTMLEmbedBlock",
+        "EduImageGalleryBlock",
+        "EduMediaBlock",
+        "EduQuoteBlock",
+        "CtaWithInputBlock"
+      ]
+    },
+    {
+      "pageType": "EduGeneralDetailPage",
+      "environment": "EDU",
+      "blocks": [
+        "EduHeroNoImageBlock",
+        "RichTextBlock",
+        "ImageBlock",
+        "FormContainerBlock",
+        "LinkCardGridBlock",
+        "LayoutBlock",
+        "FullWidthCalloutBlock",
+        "FeaturedMediaBlock",
+        "FeaturedMediaBlock",
+        "EduSimpleCalloutBlock",
+        "FeaturedMediaBlock",
+        "EduMediaBlock",
+        "FeaturedResourcesBlock",
+        "LargeSliderBlock",
+        "AccordionBlock",
+        "EduErrorPageBlock"
+      ]
+    },
+    {
+      "pageType": "EduFacultyDirectoryPage",
+      "environment": "EDU",
+      "testException": "testFullPage",
+      "blocks": ["EduFacultyDirectoryPageBlock"]
+    },
+    {
+      "pageType": "EduDirectoryLandingPage",
+      "environment": "EDU",
+      "blocks": [
+        "EduLandingHeroBlock",
+        "LayoutBlock",
+        "EduQuoteBlock",
+        "ImageGalleryBlock",
+        "RichTextBlock",
+        "FeaturedResourcesBlock",
+        "FeaturedMediaBlock",
+        "CtaWithInputBlock",
+        "FullWidthCalloutBlock",
+        "EduStatisticsBlock",
+        "LargeSliderBlock",
+        "LinkCardGridBlock",
+        "LinkCardGridBlock",
+        "FeaturedResourcesBlock",
+        "EduSimpleCalloutBlock",
+        "EduContactInformationBlock",
+        "AccordionBlock"
+      ]
+    },
+    {
+      "pageType": "EduDepartmentsAndOfficesDirectoryPage",
+      "environment": "EDU",
+      "testException": "testFullPage",
+      "blocks": ["EduDepartmentsAndOfficesDirectoryPageBlock"]
+    },
+    {
+      "pageType": "EduProgramFinderPage",
+      "environment": "EDU",
+      "testException": "testFullPage",
+      "blocks": ["EduProgramFinderPageBlock"]
+    },
+    {
+      "pageType": "EduStoriesIndexPage",
+      "environment": "EDU",
+      "testException": "testFullPage",
+      "blocks": ["EduStoriesIndexPageBlock"]
+    },
+    {
+      "pageType": "EduCourseSyllabusPage",
+      "environment": "EDU",
+      "testException": "testFullPage",
+      "blocks": ["EduCourseSyllabusPageBlock"]
+    },
+    {
+      "pageType": "EduSearchPage",
+      "environment": "EDU",
+      "testException": "testFullPage",
+      "blocks": ["EduSearchPageBlock"]
+    }
+  ]
+}
